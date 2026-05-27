@@ -73,3 +73,10 @@ Elle met en évidence des axes d’optimisation liés à la fidélisation client
 - Visualisation de données  
 - Graphiques (boxplot, courbes, barres)
   
+---
+
+## 📷 Aperçu des graphiques
+
+![Evolution du CA](images/Graph1.png)
+![Temps passé sur le site](images/Graph2.png)
+![Ventes par catégorie](images/Graph3.png)
