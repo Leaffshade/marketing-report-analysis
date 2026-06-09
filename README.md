@@ -1,3 +1,103 @@
+<img width="20" src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" />
+
+# 📊 Monthly Marketing Report Analysis
+
+## 🧾 Project Overview
+
+This project analyzes marketing performance using data extracted from an Excel file.
+
+The goal was to understand business performance, user behavior, and product dynamics in order to support data-driven decisions.
+
+---
+
+## 🎯 Objectives
+
+- Track revenue trends over time  
+- Analyze user behavior on the website  
+- Understand sales distribution across product categories  
+- Identify key consumption patterns  
+- Translate insights into actionable recommendations  
+
+---
+
+## 📊 Key Insights & Visualizations
+
+### 📉 1. Revenue Trend
+
+This chart shows how revenue evolved over the analyzed period.
+
+👉 Insight:  
+Revenue fluctuates over time, highlighting an overall performance trend with periods of growth and decline.
+
+👉 Business impact:  
+Improving customer retention would help stabilize revenue and support sustainable growth.
+
+---
+
+### 📦 2. Time to Purchase (Boxplot Analysis)
+
+This visualization shows the distribution of time spent on the website before completing a purchase.
+
+👉 Insight:  
+Most conversions happen within a consistent time range, with a few extreme cases.
+
+👉 Business impact:  
+Optimizing the user journey could reduce friction and improve conversion speed.
+
+---
+
+### 📊 3. Sales by Product Category
+
+This chart compares sales performance across product categories: food, consumer goods, and high-tech.
+
+👉 Insight:  
+The food category drives the majority of revenue, while high-tech shows a decline following a strategic shift.
+
+👉 Business impact:  
+Focusing marketing efforts on the food category could maximize overall performance.
+
+---
+
+## 🧠 Key Takeaways
+
+This analysis highlights:
+
+- Clear revenue trends and performance cycles  
+- Strong patterns in user behavior  
+- Uneven performance across product categories  
+
+It also identifies opportunities to improve retention and refine product strategy.
+
+---
+
+## 🛠️ Tools & Skills
+
+- Excel  
+- Data analysis  
+- Data visualization  
+- Business reporting  
+- Charts (line charts, boxplots, bar charts)
+
+---
+
+## 📷 Dashboard Overview
+
+Revenue evolution in the coming months :
+
+![Revenue Trend](images/Graph1.png)
+
+Time spent on the website for sessions resulting in a purchase :
+
+![Time to Purchase](images/Graph2.png)
+
+Sales by category :
+
+![Sales by Category](images/Graph3.png)
+
+---
+
+<img width="20" src="https://github.com/user-attachments/assets/72fd52aa-5166-461c-8ef6-f51a74c0374a" />
+
 # 📊 Analyse du rapport mensuel marketing
 
 ## 🧾 Présentation du projet
