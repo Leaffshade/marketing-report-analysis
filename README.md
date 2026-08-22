@@ -96,6 +96,7 @@ Sales by category :
 
 ![Sales by Category](images/Graph3.png)
 
+> This repository presents a portfolio version of the project. Some implementation details and calculations are intentionally not included.
 ---
 
 <img width="20" src="https://github.com/user-attachments/assets/72fd52aa-5166-461c-8ef6-f51a74c0374a" />
@@ -182,3 +183,5 @@ Elle met en évidence des axes d’optimisation liés à la fidélisation client
 ![Evolution du CA](images/Graph1.png)
 ![Temps passé sur le site](images/Graph2.png)
 ![Ventes par catégorie](images/Graph3.png)
+
+> Ce dépôt présente une version portfolio du projet. Certains détails d'implémentation et calculs ne sont volontairement pas inclus.
